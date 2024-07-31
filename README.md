@@ -8,7 +8,7 @@ Usage
  Running the Predictor Toolkit
 
 Installation
-Clone this repository and install the required packages using pip
+Clone this repository and install the required packages using pip.
 Ensure you have the datasets (Restaurants_Train_v2.csv and restaurants-trial.csv) in the root directory.
 
 Usage:
@@ -18,6 +18,6 @@ Run the ABSA_NLP.py script to train the model. This will save the best model and
 
 Running the Predictor Toolkit:
 Ensure the best model is saved in the best_model directory (generated from the training step).
-Run the Predictor_Toolkit.py script to predict sentiment for given aspects and sentences
+Run the Predictor_Toolkit.py script to predict sentiment for given aspects and sentences.
 
 Follow the prompts to input sentences and aspects for sentiment prediction.
