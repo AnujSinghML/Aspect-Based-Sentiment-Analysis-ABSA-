@@ -1,0 +1,97 @@
+id,Sentence,Aspect Term,polarity,from,to
+813,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",appetizers,positive,8,18
+813,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",salads,positive,23,29
+813,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",steak,positive,49,54
+813,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",pasta,positive,82,87
+1579,And really large portions.,portions,positive,17,25
+2882,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.,sweet lassi,positive,4,15
+2882,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.,lamb chettinad,positive,41,55
+2882,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.,garlic naan,positive,64,75
+2882,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.,rasamalai,negative,84,93
+1609,Service was quick.,Service,positive,0,7
+3018,"Oh, don't even let me start with how expensive the bills were!",bills,negative,51,56
+3292,Service is top notch.,Service,positive,0,7
+2041,The best thing I tasted were the lambc hops.,lambc hops,positive,33,43
+3440,"Even though its good seafood, the prices are too high.",seafood,positive,21,28
+3440,"Even though its good seafood, the prices are too high.",prices,negative,34,40
+870,"In addition, the food is very good and the prices are reasonable.",food,positive,17,21
+870,"In addition, the food is very good and the prices are reasonable.",prices,positive,43,49
+2507,The food is great and authentic.,food,positive,4,8
+3081,"I recommend the garlic shrimp, okra (bindi), and anything with lamb.",garlic shrimp,positive,16,29
+3081,"I recommend the garlic shrimp, okra (bindi), and anything with lamb.",okra (bindi),positive,31,43
+3081,"I recommend the garlic shrimp, okra (bindi), and anything with lamb.",lamb,positive,63,67
+1884,"The menu was impressive with selections ranging from a burger, to steak, to escargot.",menu,positive,4,8
+1884,"The menu was impressive with selections ranging from a burger, to steak, to escargot.",burger,neutral,55,61
+1884,"The menu was impressive with selections ranging from a burger, to steak, to escargot.",steak,neutral,66,71
+1884,"The menu was impressive with selections ranging from a burger, to steak, to escargot.",escargot,neutral,76,84
+2077,very good breads as well.,breads,positive,10,16
+201,"Anyway, the food is good, the price is right and they have a decent wine list.",food,positive,12,16
+201,"Anyway, the food is good, the price is right and they have a decent wine list.",price,positive,30,35
+201,"Anyway, the food is good, the price is right and they have a decent wine list.",wine list,positive,68,77
+3049,The food was lousy -too sweet or too salty and the portions tiny.,food,negative,4,8
+3049,The food was lousy -too sweet or too salty and the portions tiny.,portions,negative,51,59
+1242,But the coconut rice was good.,coconut rice,positive,8,20
+2211,And the Tom Kha soup was pathetic.,Tom Kha soup,negative,8,20
+3343,The food now is inconsistent.,food,negative,4,8
+2141,"Try the crunchy tuna, it is to die for.",crunchy tuna,positive,8,20
+83,Reasonable prices.,prices,positive,11,17
+3315,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,service,positive,18,25
+3315,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,food,positive,36,40
+3315,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,price,positive,57,62
+1709,"Unfortunately, the food was NOT something to get worked up about.",food,negative,19,23
+193,The food is great and reasonably priced.,food,positive,4,8
+193,The food is great and reasonably priced.,priced,positive,33,39
+1293,"Their calzones are horrific, bad, vomit-inducing, YUCK.",calzones,negative,6,14
+2105,"A few tips: skip the turnip cake, roast pork buns and egg custards.",turnip cake,negative,21,32
+2105,"A few tips: skip the turnip cake, roast pork buns and egg custards.",roast pork buns,negative,34,49
+2105,"A few tips: skip the turnip cake, roast pork buns and egg custards.",egg custards,negative,54,66
+2152,The bagels are fabulous.,bagels,positive,4,10
+882,"While the ambiance and atmosphere were great, the food and service could have been a lot better.",ambiance,positive,10,18
+882,"While the ambiance and atmosphere were great, the food and service could have been a lot better.",atmosphere,positive,23,33
+882,"While the ambiance and atmosphere were great, the food and service could have been a lot better.",food,negative,50,54
+882,"While the ambiance and atmosphere were great, the food and service could have been a lot better.",service,negative,59,66
+1124,"Our waitress was sweet and accomodating, not overbearing.",waitress,positive,4,12
+3020,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing.",fish,positive,33,37
+3020,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing.",rice,positive,45,49
+3020,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing.",seaweed,positive,57,64
+3170,"Good spreads, great beverage selections and bagels really tasty.",spreads,positive,5,12
+3170,"Good spreads, great beverage selections and bagels really tasty.",beverage selections,positive,20,39
+3170,"Good spreads, great beverage selections and bagels really tasty.",bagels,positive,44,50
+2171,The food options rule.,food options,positive,4,16
+2811,Consistently good Japanese Tapas.,Japanese Tapas,positive,18,32
+339,The sushi was awful!,sushi,negative,4,9
+776,The food was great.,food,positive,4,8
+924,With the theater 2 blocks away we had a delicious meal in a beautiful room.,meal,positive,50,54
+924,With the theater 2 blocks away we had a delicious meal in a beautiful room.,room,positive,70,74
+1273,I love the fact that the pizza tastes so good and is so cheap.,pizza,positive,25,30
+179,"Service was prompt, friendly and great.",Service,positive,0,7
+109,"I haven't eat a lamb chop as delicious as that, the salads are really nice dressed with lemon and extra virgnin olive oil.",lamb chop,positive,16,25
+109,"I haven't eat a lamb chop as delicious as that, the salads are really nice dressed with lemon and extra virgnin olive oil.",salads,positive,52,58
+1057,Drawbacks: service is slow and they don't toast!,service,negative,11,18
+2451,The prices were fantastic.,prices,positive,4,10
+1548,"The food is terrible and overall, I would have to say avoid at all costs.",food,negative,4,8
+134,The food is prepared quickly and efficiently.,food,positive,4,8
+2708,"The food is fresh, delicious, and reasonably priced.",food,positive,4,8
+2708,"The food is fresh, delicious, and reasonably priced.",priced,positive,45,51
+3575,"As we were leaving, the couple standing by the door said to another waiter, we're not in a hurry.",waiter,neutral,68,74
+742,The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.,outdoor atmosphere,positive,4,22
+1471,"A large is $20, and toppings are about $3 each.",toppings,neutral,20,28
+1656,The spicy tuna and salmon are the best we've ever had.,spicy tuna,positive,4,14
+1656,The spicy tuna and salmon are the best we've ever had.,salmon,positive,19,25
+3681,"The food was very good, a great deal, and the place its self was great.",food,positive,4,8
+3681,"The food was very good, a great deal, and the place its self was great.",place,positive,46,51
+2205,The food is usually good but it certainly isn't a relaxing place to go.,food,positive,4,8
+2205,The food is usually good but it certainly isn't a relaxing place to go.,place,negative,59,64
+1159,"After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY.",dinner,neutral,6,12
+1159,"After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY.",dance floor,positive,41,52
+628,The server was really cool and served us our food and drinks with a smile.,server,positive,4,10
+628,The server was really cool and served us our food and drinks with a smile.,served,positive,31,37
+628,The server was really cool and served us our food and drinks with a smile.,food,neutral,45,49
+628,The server was really cool and served us our food and drinks with a smile.,drinks,neutral,54,60
+2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",dishes,positive,4,10
+2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",lamb sausages,positive,62,75
+2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",sardines with biscuits,positive,77,99
+2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",large whole shrimp,positive,101,119
+2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",pistachio ice cream,positive,135,154
+3188,Went there for an office lunch.,office lunch,neutral,18,30
+3041,"We've only eaten in the restaurant once, but we have ordered many times for dinner.",dinner,neutral,76,82
