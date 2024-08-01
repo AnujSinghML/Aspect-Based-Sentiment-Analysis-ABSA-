@@ -1,5 +1,6 @@
 # ABSA
 This repository contains the implementation of Aspect-Based Sentiment Analysis (ABSA) using NLP and a Predictor Toolkit for sentiment prediction.
+Explanation , Implementation and Application is mentioned in my reserach paper which I did as part of my internship at IIIT-Nagpur under the guidance of Dr.Pooja Jain.
 
 Table of Contents:
 Installation
