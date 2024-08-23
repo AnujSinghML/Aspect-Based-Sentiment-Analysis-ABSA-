@@ -3,12 +3,12 @@ This repository contains the implementation of Aspect-Based Sentiment Analysis (
 Explanation , Implementation and Application is mentioned in my reserach paper which I did as part of my internship at IIIT-Nagpur under the guidance of Dr.Pooja Jain.
 
 Table of Contents:
-Installation
-Usage
- Training the Model
+Installation,
+Usage,
+ Training the Model,
  Running the Predictor Toolkit
 
-Installation
+Installation:
 Clone this repository and install the required packages using pip.
 Ensure you have the datasets (Restaurants_Train_v2.csv and restaurants-trial.csv) in the root directory.
 
