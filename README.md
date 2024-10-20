@@ -22,6 +22,7 @@ Ensure the best model is saved in the best_model directory (generated from the t
 Run the Predictor_Toolkit.py script to predict sentiment for given aspects and sentences.
 
 Follow the prompts to input sentences and aspects for sentiment prediction.
+The following image shows how the directory should look after training and evaluation.(best moodel and checkpoints are saved)
 
 ![image](https://github.com/user-attachments/assets/80086f88-823c-4f6e-8860-c72ebb172e74)
 
