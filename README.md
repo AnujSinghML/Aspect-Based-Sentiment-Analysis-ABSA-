@@ -3,6 +3,7 @@
 Implementation of Aspect-Based Sentiment Analysis (ABSA) using NLP along with a Predictor Toolkit for sentiment prediction.
 
 This work was conducted as part of my internship at **IIIT-Nagpur** under the guidance of **Dr. Pooja Jain**. The research paper explaining the implementation, methodology, and applications of this project is also available.
+The explanation and reference can be found in /paper-work/explanantion.md
 
 ## Table of Contents
 - [Installation](#installation)
